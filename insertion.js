@@ -17,3 +17,6 @@ function insertionSort(array) {
   
     return array;
   }
+
+  console.log("Original Array:", array);
+  console.log("Sorted Array:", insertionSort(array));
