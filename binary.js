@@ -23,5 +23,5 @@
         return -1;
       }
       
-
+      console.log(searchbinary(target, search));
     
