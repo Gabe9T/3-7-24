@@ -28,3 +28,4 @@ function selectionSort(array) {
     return array;
   }
   
+  console.log(sortedArray);
