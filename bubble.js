@@ -21,3 +21,4 @@ function bubbleSort(array) {
     return array;
   }
 
+  console.log(sortedArray);
