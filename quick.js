@@ -21,3 +21,4 @@ function quickSort(array) {
     }
 }
 
+console.log(sortedArray);
