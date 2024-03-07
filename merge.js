@@ -50,3 +50,4 @@ function mergeSort(array) {
     return result;
   }
   
+  console.log(sortedArray);
